@@ -1,0 +1,1 @@
+<P> [Name] (<S> [Type = 'STUDIO'] (<P> [Name, Type] (<S> [Name = Artist] (Albums <X> (<P> [Name] (<S> [Type = 'BAND'] (Artists))))))) <D> (<P> [Name] (<S> [Type = 'LIVE' | Type = 'COMPILATION'] (<P> [Name, Type] (<S> [Name = Artist] (Albums <X> (<P> [Name] (<S> [Type = 'BAND'] (Artists))))))))

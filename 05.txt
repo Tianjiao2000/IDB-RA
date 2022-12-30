@@ -1,0 +1,1 @@
+<P> [AlbumTitle, Artist, Year] (<R> [Title -> AlbumTitle] ((<S> [Type = 'STUDIO'] (Albums)) <D> (<P> [Artist, Title, Year, Type, Rating] (<S> [Artist = A1 & Year < Y1] ((<S> [Type = 'STUDIO'] (Albums)) <X> (<R> [Title -> T, Artist -> A1, Year -> Y1, Type -> T1, Rating -> R] (<S> [Type = 'STUDIO'] (Albums))))))))

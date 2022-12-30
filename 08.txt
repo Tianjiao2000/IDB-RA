@@ -1,0 +1,1 @@
+<P> [Name, Year] (<S> [Type = 'BAND' & Country = 'USA'] (<S> [Name = Artist] (Artists <X> (<R> [Type -> t] ((<S> [Type = 'STUDIO' & Rating = 5] (Albums)) <I> (Albums <D> (<P> [Title, Artist, Year, Type, Rating] (<S> [Artist = a & (~(Year < y)) & (~(Year = y))] (Albums <X> <R> [Title -> t, Artist -> a, Year -> y, Type -> t1, Rating -> r] (Albums))))))))))
